@@ -1,0 +1,9 @@
+(100,  # Number of days
+ np.array([[10, 5], [8, 4]]),  # Initial servers for each data center and type
+ {
+    'purchase_cost': np.array([100, 200]),  # Cost to purchase CPU and GPU
+    'selling_price': np.array([80, 160]),   # Price to sell CPU and GPU
+    'transfer_cost': np.array([10, 20]),    # Cost to transfer CPU and GPU
+    'profit_per_demand': np.array([[5, 8], [3, 6]])  # Profit per demand satisfied for each DC and server type
+ }
+)

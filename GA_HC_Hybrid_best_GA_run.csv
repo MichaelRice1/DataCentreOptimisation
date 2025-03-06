@@ -1,0 +1,2 @@
+,total_profit,algorithm,nbr_func,its,seed,zero_prob,pop,tsize,pmut,enum
+0,32799,GA_HC,int_nbr_every_day,50000,2,0.01,100,3,0.05,5
